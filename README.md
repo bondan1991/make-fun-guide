@@ -1,8 +1,8 @@
 # Getting started with make.fun
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
-[![rank](https://make.fun/badge/bring-the-humans-02/YOUR-GITHUB-OWNER/make-fun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
-[![reward](https://make.fun/badge/bring-the-humans-02/YOUR-GITHUB-OWNER/make-fun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/bondan1991/make-fun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
+[![reward](https://make.fun/badge/bring-the-humans-02/bondan1991/make-fun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
 **New here? Start with my link:** <https://make.fun/r/vme3hh7p>
 
