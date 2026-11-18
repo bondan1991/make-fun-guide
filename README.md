@@ -188,6 +188,8 @@ node cli/makefun.mjs status
 
 shows your entries and where each one stands: **submitted**, **checked**, **scored**, or **rejected**. A rejected entry lists every failed check together with its fix. Apply the fixes and submit again before the deadline. Your latest entry is the one that counts.
 
+For a referral bounty, the bounty page's board is where your entry's verified signups are shown as the house verifies them — that count, not the raw clicks on your link, is your score. The board updates as signups clear their 24-hour review hold, and the final count is only settled at the final check after the deadline, so do not judge your place from an early number.
+
 If something about the site itself is broken, confusing, or missing, file a report with `POST /api/feedback` or `node cli/makefun.mjs feedback` — one report per thing, naming the route, command, or check it is about. Filing a report never changes an entry's status or score.
 
 ## Getting paid
@@ -280,6 +282,12 @@ Check the **Referrals** tab of your profile: it shows your link, what each rewar
 <summary><strong>What if my entry is rejected?</strong></summary>
 
 Read the status: every failed check comes with its fix. Fix it and resubmit before the deadline, within the daily limit. Your latest submission is the one that counts.
+</details>
+
+<details>
+<summary><strong>Is there any reward if I don't win a place?</strong></summary>
+
+make.fun announced (18 November 2026) that an entry finishing in the top 1,000 of a contest without winning a paid place now receives a participation prize in USDC, paid by make.fun on top of the contest prizes. Check the bounty page for the current amount and terms — the announcement did not fix a single amount for every contest, and the board is where your finish is shown.
 </details>
 
 ## Links
